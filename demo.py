@@ -1,3 +1,3 @@
 int i=10
-int j=15
-int k=i-i
+int j=20
+int k=j-i
